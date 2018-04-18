@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain_Scholar_.NET_MVC", "Brain_Scholar_.NET_MVC\Brain_Scholar_.NET_MVC.csproj", "{0AF7EC25-8E66-4086-BB45-6B085A3364DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain_Scholar_.NET_MVC.Tests", "Brain_Scholar_.NET_MVC.Tests\Brain_Scholar_.NET_MVC.Tests.csproj", "{C7752BE3-C3B9-4CE9-8C16-E8FD31E3636D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF7EC25-8E66-4086-BB45-6B085A3364DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF7EC25-8E66-4086-BB45-6B085A3364DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF7EC25-8E66-4086-BB45-6B085A3364DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF7EC25-8E66-4086-BB45-6B085A3364DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7752BE3-C3B9-4CE9-8C16-E8FD31E3636D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7752BE3-C3B9-4CE9-8C16-E8FD31E3636D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7752BE3-C3B9-4CE9-8C16-E8FD31E3636D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7752BE3-C3B9-4CE9-8C16-E8FD31E3636D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
